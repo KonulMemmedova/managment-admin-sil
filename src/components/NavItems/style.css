@@ -1,0 +1,18 @@
+.nav-items {
+  height: 24px;
+  position: relative;
+  width: 80px;
+}
+
+.nav-items .dashboards {
+  color: #ffffff;
+  font-family: "GT America-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
